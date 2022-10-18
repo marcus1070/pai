@@ -2663,7 +2663,7 @@ section {
 }
 
 .section {
-    background-color: #FFF;
+    background-color: #fff;
 }
 
 .font-bold {
@@ -3034,7 +3034,7 @@ ul.nav.nav-tabs > li > a,
     color: #cacaca;
     font-size: 30px;
     padding: 20px;
-    border: 1px solid transparent;
+    border: 5px solid transparent;
     transition: all .3s ease;
     border-radius: 50%;
 }
@@ -13806,7 +13806,7 @@ header.header-fixed .header-top {
 
 #main-nav > li {
     display: block;
-    padding: 0 15px;
+    padding: 0 0px 0 0;
 }
 
 #main-nav > li > a {
@@ -14466,7 +14466,7 @@ header.header-fixed #st-trigger-effects .st-btn-efect {
 
 .top-header .slide-content.slide-layout-02 .slide-sub-title {
     font-family: "Rancho", sans-serif;
-    font-size: 60px;
+    font-size: 40px;
     color: #fff;
     text-align: center;
     position: relative;
@@ -16310,8 +16310,7 @@ ul.nav.nav-tabs > li > a,
 }
 
 .swin-sc-product .cat-wrapper-02 {
-    margin: auto;
-    margin-bottom: 55px;
+    margin: auto auto 55px;
 }
 
 .swin-sc-product .cat-wrapper-02.cat-img .cat-title {

@@ -19830,15 +19830,15 @@ footer .swin-widget .title-widget {
 }
 
 .about-contact-info .address-info {
-    width: 40%;
     float: left;
+    width: 33%;
 }
 
 .about-contact-info .phone-info,
 .about-contact-info .email-info {
-    width: 30%;
     float: left;
     padding-left: 10px;
+    width: 33%;
 }
 
 .about-contact-info .info-icon {
